@@ -8,7 +8,7 @@
 </a>
 <br>
 
-# Tecnologias que eu uso e estudo 📚
+## Tecnologias que eu uso e estudo 📚
 
 <div style="display: inline_block"><br>
 
