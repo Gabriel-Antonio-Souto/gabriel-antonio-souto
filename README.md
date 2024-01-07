@@ -1,10 +1,10 @@
 # Olá! eu sou Gabriel Antonio 👋
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=gabriel-antonio-souto&show_icons=true&theme=dark" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=gabriel-antonio-souto&show_icons=true&theme=blue-green" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-antonio-souto&layout=compact&show_icons=true&theme=dark" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-antonio-souto&layout=compact&show_icons=true&theme=blue-green" />
 </a>
 <br>
 
@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   
