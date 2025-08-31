@@ -28,7 +28,7 @@
 
 🔍 Sempre em busca de aprender novas tecnologias e desafios
 
-## 📚 Tecnologias que eu uso e estudo
+## 👨🏾‍💻 Tecnologias que eu uso e estudo
 
  <p align="center">
     <a href="https://skillicons.dev">
