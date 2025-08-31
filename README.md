@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Gabriel Antonio
 
-<img align="right" alt="" height="400px" src="./image.png">
+<img align="right" alt="" height="350px" src="./image.png">
 
 <div>
 
