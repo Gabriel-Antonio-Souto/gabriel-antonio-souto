@@ -2,16 +2,36 @@
 
 # 👋 Olá! Eu sou Gabriel Antonio
 
-<img align="right" alt="" height="350px" src="./image.png">
+<table style="width:100%; border: none;">
+  <tr>
+    <td style="width:50%; padding: 10px; vertical-align: top; text-align: center;">
+      <div>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=gabriel-antonio-souto&show_icons=true&theme=transparent" />
+        </a>
+        <a href="https://github.com/anuraghazra/convoychat">
+          <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-antonio-souto&layout=donut&show_icons=true&theme=transparent" />
+        </a>
+      </div>
+    </td>
+    <td style="width:50%; padding: 10px; vertical-align: top; text-align: center;">
+      <div>
+       <img align="center" alt="" with="100px" src="./image.png">
+      </div>
+    </td>
+  </tr>
+</table>
 
-<div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=gabriel-antonio-souto&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-antonio-souto&layout=donut&show_icons=true&theme=transparent" />
-</a>
+<div style="display: flex;">
+
+<div style="with: 50%;">
+  
+</div>
+
+<div style="with: 50%;">
+
+</div>
 
 </div>
 
